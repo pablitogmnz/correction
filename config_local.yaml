@@ -1,0 +1,10 @@
+# Configuration Locale pour XAMPP + API
+bdd:
+  host: "localhost"
+  nom: "snapfit"
+  user: "root"
+  password: ""
+
+# Clé API SerpAPI 
+api:
+  serpapi_key: "ffb77f975fdb3cb15d2c571656be37bbf934b0a7e7b0aaafe1275a527c0e2c2f"
